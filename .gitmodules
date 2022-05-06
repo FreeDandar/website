@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github-rudn:FreeDandar/freedandar.github.io.git
+	branch = main
