@@ -23,30 +23,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - date_end: '2019-05-15'
+    date_start: '2018-10-25'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Мосволонтер
+    organization_url: https://mosvolonter.ru/
+    title: Волонтерство РДШ
+  - certificate_url:
+    date_end: '2019-04-19'
+    date_start: '2019-04-18'
+    description: Призер Городской открытой научно-практической конференции "Инженеры будущего" в секции Информационные технологии, программирование, прикладная математика, социальный инжиниринг
+    organization: Городская открытая научно-практическая конференция "Инженеры будущего"
+    title: Призер конференции "Инженеры будущего"
 
 design:
   columns: '2'
